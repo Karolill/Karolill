@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Karolill
-- 👀 I’m interested in web development (especially front end programming) and artificial intelligence. 
-- 🌱 I’m currently learning many things, but focusing most on AI trough school and React trough projects. 
+👋 Hi, I’m @Karolill
+
+🩷 I’m interested in software development and artificial intelligence.
+
+🌻 I have worked the most with fronted development, and I'm currently learning more about backend development. 
 
 <!---
 Karolill/Karolill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
